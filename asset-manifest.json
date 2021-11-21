@@ -1,31 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a041dba2.chunk.css",
-    "main.js": "/portfolio/static/js/main.1d86005c.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.1d86005c.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.5bd9b302.chunk.css",
+    "main.js": "/portfolio/static/js/main.0431ad73.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0431ad73.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.37da8305.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.37da8305.js.map",
     "static/js/2.8b030b76.chunk.js": "/portfolio/static/js/2.8b030b76.chunk.js",
     "static/js/2.8b030b76.chunk.js.map": "/portfolio/static/js/2.8b030b76.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.a041dba2.chunk.css.map": "/portfolio/static/css/main.a041dba2.chunk.css.map",
+    "static/css/main.5bd9b302.chunk.css.map": "/portfolio/static/css/main.5bd9b302.chunk.css.map",
     "static/js/2.8b030b76.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8b030b76.chunk.js.LICENSE.txt",
-    "static/media/3d_dealer_girl.6f528b6c.png": "/portfolio/static/media/3d_dealer_girl.6f528b6c.png",
     "static/media/Card.6f3c7298.wav": "/portfolio/static/media/Card.6f3c7298.wav",
-    "static/media/about.css": "/portfolio/static/media/profile.43060a7e.jpg",
     "static/media/cardDisp.5c1990de.png": "/portfolio/static/media/cardDisp.5c1990de.png",
     "static/media/cards1.197412c1.png": "/portfolio/static/media/cards1.197412c1.png",
     "static/media/cling.2f3d3e03.wav": "/portfolio/static/media/cling.2f3d3e03.wav",
     "static/media/coin_w.99333959.png": "/portfolio/static/media/coin_w.99333959.png",
     "static/media/home.css": "/portfolio/static/media/home_bg.1d3eb256.jpg",
-    "static/media/projects.css": "/portfolio/static/media/home_projects.31263592.jpg",
+    "static/media/about.css": "/portfolio/static/media/profile.43060a7e.jpg",
     "static/media/table.829b0ff6.png": "/portfolio/static/media/table.829b0ff6.png",
     "static/media/win.851d41c7.mp3": "/portfolio/static/media/win.851d41c7.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.37da8305.js",
     "static/js/2.8b030b76.chunk.js",
-    "static/css/main.a041dba2.chunk.css",
-    "static/js/main.1d86005c.chunk.js"
+    "static/css/main.5bd9b302.chunk.css",
+    "static/js/main.0431ad73.chunk.js"
   ]
 }
