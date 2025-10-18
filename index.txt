@@ -1,29 +1,31 @@
 1:"$Sreact.fragment"
-2:I[8785,["244","static/chunks/244-978d27caab300912.js","177","static/chunks/app/layout-a14889a1364a33eb.js"],"default"]
-3:I[9077,["244","static/chunks/244-978d27caab300912.js","177","static/chunks/app/layout-a14889a1364a33eb.js"],"default"]
-4:I[5700,["244","static/chunks/244-978d27caab300912.js","177","static/chunks/app/layout-a14889a1364a33eb.js"],"default"]
+2:I[8785,["244","static/chunks/244-978d27caab300912.js","177","static/chunks/app/layout-b18999cfb02ad352.js"],"default"]
+3:I[9077,["244","static/chunks/244-978d27caab300912.js","177","static/chunks/app/layout-b18999cfb02ad352.js"],"default"]
+4:I[5700,["244","static/chunks/244-978d27caab300912.js","177","static/chunks/app/layout-b18999cfb02ad352.js"],"default"]
 5:I[7555,[],""]
 6:I[1295,[],""]
 7:I[9543,["244","static/chunks/244-978d27caab300912.js","345","static/chunks/app/not-found-49efbfe913e51ed0.js"],"default"]
-8:I[8172,["244","static/chunks/244-978d27caab300912.js","177","static/chunks/app/layout-a14889a1364a33eb.js"],"default"]
-9:I[5215,["244","static/chunks/244-978d27caab300912.js","177","static/chunks/app/layout-a14889a1364a33eb.js"],"default"]
-a:I[4402,["266","static/chunks/266-f16c184c089dee12.js","974","static/chunks/app/page-17871d95b1904252.js"],"default"]
-b:I[344,["266","static/chunks/266-f16c184c089dee12.js","974","static/chunks/app/page-17871d95b1904252.js"],"default"]
-c:I[8074,["266","static/chunks/266-f16c184c089dee12.js","974","static/chunks/app/page-17871d95b1904252.js"],"default"]
-d:I[9665,[],"MetadataBoundary"]
-f:I[9665,[],"OutletBoundary"]
-12:I[4911,[],"AsyncMetadataOutlet"]
-14:I[9665,[],"ViewportBoundary"]
-16:I[6614,[],""]
-:HL["/_next/static/css/d97132e6feca333e.css","style"]
-:HL["/_next/static/css/b71f1f46bfe30749.css","style"]
-:HL["/_next/static/css/43649400d8153bab.css","style"]
-0:{"P":null,"b":"-XjdejKlaJa-qTIPJVyVH","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d97132e6feca333e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_5cfdac __variable_9a8899 dark-theme","children":[["$","div",null,{"className":"header_header__3jk_8","children":[["$","$L2",null,{}],["$","div",null,{"className":"header_btn-sec__co4nJ","children":[["$","$L3",null,{}],["$","$L4",null,{}]]}]]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L8",null,{}],["$","$L9",null,{}]]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"className":"page-container","children":[["$","div",null,{"className":"home_home-bg__fgtPH","children":[["$","h1",null,{"children":"N@v!n"}],["$","h2",null,{"children":"Software Developer specializing in web and mobile applications. Passionate about creating innovative solutions and user-friendly experiences."}],["$","$La",null,{}]]}],["$","h2",null,{"className":"home_title___3uwH","children":"Techonologies"}],["$","$Lb",null,{"data":[{"title":"JavaScript","description":"","path":"js"},{"title":"TypeScript","description":"","path":"ts"},{"title":"Node JS","description":"","path":"nodejs"},{"title":"React JS","description":"","path":"reactjs"},{"title":"Express JS","description":"","path":"expressjs"},{"title":"Mongo DB","description":"","path":"mongodb"},{"title":"PostgreSQL","description":"","path":"postgresql"},{"title":"CSS","description":"","path":"css"},{"title":"SCSS","description":"","path":"scss"},{"title":"HTML","description":"","path":"html"},{"title":"Phaser JS","description":"","path":"phaserjs"}]}],["$","h2",null,{"className":"home_title___3uwH","children":"Featured Projects"}],["$","$Lc",null,{}]]}],["$","$Ld",null,{"children":"$Le"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b71f1f46bfe30749.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/43649400d8153bab.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Lf",null,{"children":["$L10","$L11",["$","$L12",null,{"promise":"$@13"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","eNYhq53CBdgDlvrk4KeiY",{"children":[["$","$L14",null,{"children":"$L15"}],null]}],null]}],false]],"m":"$undefined","G":["$16","$undefined"],"s":false,"S":true}
-17:"$Sreact.suspense"
-18:I[4911,[],"AsyncMetadata"]
-e:["$","$17",null,{"fallback":null,"children":["$","$L18",null,{"promise":"$@19"}]}]
+8:I[8172,["244","static/chunks/244-978d27caab300912.js","177","static/chunks/app/layout-b18999cfb02ad352.js"],"default"]
+9:I[5215,["244","static/chunks/244-978d27caab300912.js","177","static/chunks/app/layout-b18999cfb02ad352.js"],"default"]
+a:I[392,["266","static/chunks/266-f16c184c089dee12.js","974","static/chunks/app/page-4af6be52fd8f7408.js"],"default"]
+b:I[8528,["266","static/chunks/266-f16c184c089dee12.js","974","static/chunks/app/page-4af6be52fd8f7408.js"],"default"]
+c:I[344,["266","static/chunks/266-f16c184c089dee12.js","974","static/chunks/app/page-4af6be52fd8f7408.js"],"default"]
+d:I[8074,["266","static/chunks/266-f16c184c089dee12.js","974","static/chunks/app/page-4af6be52fd8f7408.js"],"default"]
+e:I[9665,[],"MetadataBoundary"]
+10:I[9665,[],"OutletBoundary"]
+13:I[4911,[],"AsyncMetadataOutlet"]
+15:I[9665,[],"ViewportBoundary"]
+17:I[6614,[],""]
+:HL["/_next/static/css/41faff4e31a2f6ac.css","style"]
+:HL["/_next/static/css/5adab6456d170fdc.css","style"]
+:HL["/_next/static/css/ae4ed9c503fd1e33.css","style"]
+:HL["/_next/static/css/c7d7786eb592601b.css","style"]
+0:{"P":null,"b":"854Yxm1_QKckcbPf1k968","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/41faff4e31a2f6ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_188709 __variable_9a8899 dark-theme","children":[["$","div",null,{"className":"header_header__3jk_8","children":[["$","$L2",null,{}],["$","div",null,{"className":"header_btn-sec__co4nJ","children":[["$","$L3",null,{}],["$","$L4",null,{}]]}]]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L8",null,{}],["$","$L9",null,{}]]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"className":"page-container","children":[["$","div",null,{"className":"home_home-bg__fgtPH","children":[["$","h2",null,{"children":"Coding. Games. Notes. Thoughts"}],["$","h4",null,{"children":"A software developer's portfolio, a game creator's journal, and place for vivid knowledge and facts."}],["$","div",null,{"className":"home_cta-group__7RCWU","children":[["$","$La",null,{}],["$","$Lb",null,{}]]}]]}],["$","h2",null,{"className":"home_title___3uwH","children":"Techonologies"}],["$","$Lc",null,{"data":[{"title":"JavaScript","description":"","path":"js"},{"title":"TypeScript","description":"","path":"ts"},{"title":"Node JS","description":"","path":"nodejs"},{"title":"React JS","description":"","path":"reactjs"},{"title":"Express JS","description":"","path":"expressjs"},{"title":"Mongo DB","description":"","path":"mongodb"},{"title":"PostgreSQL","description":"","path":"postgresql"},{"title":"CSS","description":"","path":"css"},{"title":"SCSS","description":"","path":"scss"},{"title":"HTML","description":"","path":"html"},{"title":"Phaser JS","description":"","path":"phaserjs"}]}],["$","h2",null,{"className":"home_title___3uwH","children":"Featured Projects"}],["$","$Ld",null,{}]]}],["$","$Le",null,{"children":"$Lf"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5adab6456d170fdc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/ae4ed9c503fd1e33.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/c7d7786eb592601b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L10",null,{"children":["$L11","$L12",["$","$L13",null,{"promise":"$@14"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","FLFEyQypWUaZY0LKuZwXB",{"children":[["$","$L15",null,{"children":"$L16"}],null]}],null]}],false]],"m":"$undefined","G":["$17","$undefined"],"s":false,"S":true}
+18:"$Sreact.suspense"
+19:I[4911,[],"AsyncMetadata"]
+f:["$","$18",null,{"fallback":null,"children":["$","$L19",null,{"promise":"$@1a"}]}]
+12:null
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 11:null
-15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-10:null
-19:{"metadata":[["$","title","0",{"children":"Coding NT"}],["$","meta","1",{"name":"description","content":"authored by navin"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
-13:{"metadata":"$19:metadata","error":null,"digest":"$undefined"}
+1a:{"metadata":[["$","title","0",{"children":"Coding NT"}],["$","meta","1",{"name":"description","content":"authored by navin"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
+14:{"metadata":"$1a:metadata","error":null,"digest":"$undefined"}
