@@ -5,8 +5,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>Coding NT</title>
-    <script type="module" crossorigin src="/assets/index-_n5QIB9d.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-CRxj0n8w.css">
+    <script>
+      // Defensive global.fetch patch for sandboxed environments to prevent:
+      // "Cannot set property fetch of #<Window> which has only a getter"
+      (function() {
+        try {
+          var currentFetch = window.fetch;
+          var targets = [
+            window,
+            typeof Window !== 'undefined' ? Window.prototype : null,
+            typeof globalThis !== 'undefined' ? globalThis : null,
+            Object.getPrototypeOf(window)
+          ];
+          for (var i = 0; i < targets.length; i++) {
+            var target = targets[i];
+            if (!target) continue;
+            try {
+              var desc = Object.getOwnPropertyDescriptor(target, 'fetch');
+              if (desc && !desc.configurable) continue;
+              Object.defineProperty(target, 'fetch', {
+                get: function() { return currentFetch; },
+                set: function(val) { currentFetch = val; },
+                configurable: true,
+                enumerable: true
+              });
+            } catch (e) {}
+          }
+        } catch (err) {}
+      })();
+    </script>
+    <script type="module" crossorigin src="/assets/index-DtOvz7Mw.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-B7KqAuEg.css">
   </head>
   <body>
     <div id="root"></div>
